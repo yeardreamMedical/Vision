@@ -36,7 +36,6 @@ yarn-error.log*
 ehthumbs.db
 Thumbs.db
 
-*.png
 *.jpg
 *.jpeg
 *.gif
