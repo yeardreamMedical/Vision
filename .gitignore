@@ -44,3 +44,10 @@ Thumbs.db
 *.ico
 
 venvChest/
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.tiff
+*.ico
