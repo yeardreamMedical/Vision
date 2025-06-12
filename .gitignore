@@ -43,3 +43,5 @@ Thumbs.db
 *.bmp
 *.tiff
 *.ico
+
+venvChest/
