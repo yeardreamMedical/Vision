@@ -2,7 +2,7 @@
 vision LLM
 ## 프로젝트 소개
 이 프로젝트는 Vision LLM을 활용한 이미지 분석 및 처리 시스템입니다.
-
+![pipeline](README_img/pipeline.drawio-2.png)
 ## 주요 기능
 - 이미지 객체 감지 및 분류
 - 이미지 캡셔닝
@@ -15,6 +15,8 @@ vision LLM
 - Transformers
 - OpenCV
 - NumPy
+
+
 
 ## 0.data analysis
 ![label 분포](README_img/label.png)
