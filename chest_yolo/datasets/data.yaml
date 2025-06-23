@@ -1,0 +1,4 @@
+train: /content/drive/MyDrive/bio/chest_project/data/data/train/images
+val: /content/drive/MyDrive/bio/chest_project/data/data/val/images
+nc: 8
+names: ['Atelectasis', 'Effusion', 'Cardiomegaly', 'Infiltrate', 'Pneumonia', 'Pneumothorax', 'Mass', 'Nodule']
